@@ -2,8 +2,8 @@ name: Daily Learning Log
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Runs every day at 8 AM UTC
-  workflow_dispatch:  # Optional: allows manual run
+    - cron: '0 8 * * *'  # Every day at 8 AM UTC
+  workflow_dispatch:  # Manual trigger
 
 jobs:
   update-learning-log:
@@ -18,24 +18,20 @@ jobs:
 
       - name: Update learning log
         run: |
-          # Calculate today's topic index
           total_lines=$(wc -l < topics.txt)
-          day_of_year=$(date +%j | sed 's/^0*//')  # Remove leading zeros
+          day_of_year=$(date +%j | sed 's/^0*//')
           today_index=$(( (day_of_year % total_lines) + 1 ))
           topic=$(sed -n "${today_index}p" topics.txt)
 
-          # Fetch quote of the day
           response=$(curl --retry 3 --connect-timeout 10 -s --insecure https://api.quotable.io/random)
           quote=$(echo "$response" | jq -r '.content')
           author=$(echo "$response" | jq -r '.author')
 
-          # Fallback quote if API fails
           if [ -z "$quote" ] || [ "$quote" == "null" ]; then
-            quote="Keep going. You're doing great!"
+            quote="Keep learning. You're doing great!"
             author="Unknown"
           fi
 
-          # Append to learning_log.md
           echo "## 📅 $(date -u +'%Y-%m-%d')" >> learning_log.md
           echo "**🧠 Learning Topic:** $topic" >> learning_log.md
           echo "**💬 Quote of the Day:** \"$quote\" — $author" >> learning_log.md
@@ -47,7 +43,10 @@ jobs:
         run: |
           git config user.name "Mahesh Patil"
           git config user.email "patilmahesh5132@gmail.com"
+
+          # ✅ THIS is the important line
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
+
           git add learning_log.md
           git commit -m "📝 Daily log update: $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
-          git push
+          git push origin main
