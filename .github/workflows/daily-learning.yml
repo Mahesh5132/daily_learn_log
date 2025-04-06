@@ -23,7 +23,7 @@ jobs:
         run: |
           # Get the next topic in order
           total_lines=$(wc -l < topics.txt)
-          today_index=$(( ($(date +%j) % total_lines) + 1 ))
+          today_index=$(( ($(date +%j | sed 's/^0*//') % total_lines) + 1 ))
           topic=$(sed -n "${today_index}p" topics.txt)
 
           # Fetch quote of the day
