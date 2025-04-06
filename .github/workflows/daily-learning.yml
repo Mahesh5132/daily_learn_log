@@ -2,36 +2,31 @@ name: Daily Learning Log
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Daily at 8 AM UTC
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: '0 8 * * *' # Runs at 8:00 AM UTC every day
+  workflow_dispatch:  # Optional: allows manual run
 
 jobs:
-  daily-log:
+  update-learning-log:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Install jq
-        run: sudo apt-get install -y jq
+        run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Log learning topic and quote
+      - name: Update learning log
         run: |
-          # Get the next topic in order
           total_lines=$(wc -l < topics.txt)
-          today_index=$(( ($(date +%j | sed 's/^0*//') % total_lines) + 1 ))
+          day_of_year=$(date +%j | sed 's/^0*//')
+          today_index=$(( (day_of_year % total_lines) + 1 ))
           topic=$(sed -n "${today_index}p" topics.txt)
-
-          # Fetch quote of the day
+          
           response=$(curl -s https://api.quotable.io/random)
           quote=$(echo "$response" | jq -r '.content')
           author=$(echo "$response" | jq -r '.author')
 
-          # Append to log file
           echo "## 📅 $(date -u +'%Y-%m-%d')" >> learning_log.md
           echo "**🧠 Learning Topic:** $topic" >> learning_log.md
           echo "**💬 Quote of the Day:** \"$quote\" — $author" >> learning_log.md
@@ -39,8 +34,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add learning_log.md
-          git commit -m "Daily log: $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
+          git commit -m "📝 Daily log update: $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
           git push
