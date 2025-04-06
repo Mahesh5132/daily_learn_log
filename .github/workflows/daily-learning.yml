@@ -32,7 +32,7 @@ jobs:
             author="Unknown"
           fi
 
-          echo "## 📅 $(date -u +'%Y-%m-%d')" >> learning_log.md
+          echo "## 📅 $(TZ="Asia/Kolkata" date +'%Y-%m-%d')" >> learning_log.md
           echo "**🧠 Learning Topic:** $topic" >> learning_log.md
           echo "**💬 Quote of the Day:** \"$quote\" — $author" >> learning_log.md
           echo "" >> learning_log.md
