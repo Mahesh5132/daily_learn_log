@@ -1,0 +1,12 @@
+CI/CD with GitHub Actions
+Prompt Engineering
+LangChain Basics
+Docker for ML
+Streamlit Dashboards
+MLflow Tracking
+Fine-tuning LLMs with LoRA
+LangChain Agents
+Serverless with AWS Lambda
+Vector Search with FAISS
+Data Drift Detection
+Realtime ML with Kafka
