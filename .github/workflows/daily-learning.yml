@@ -47,6 +47,7 @@ jobs:
         run: |
           git config user.name "Mahesh Patil"
           git config user.email "patilmahesh5132@gmail.com"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
           git add learning_log.md
           git commit -m "📝 Daily log update: $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
           git push
