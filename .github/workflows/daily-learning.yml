@@ -2,7 +2,7 @@ name: Daily Learning Log
 
 on:
   schedule:
-    - cron: '0 8 * * *' # Runs at 8:00 AM UTC every day
+    - cron: '0 8 * * *'  # Runs every day at 8 AM UTC
   workflow_dispatch:  # Optional: allows manual run
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Install jq
@@ -18,21 +18,30 @@ jobs:
 
       - name: Update learning log
         run: |
+          # Calculate today's topic index
           total_lines=$(wc -l < topics.txt)
-          day_of_year=$(date +%j | sed 's/^0*//')
+          day_of_year=$(date +%j | sed 's/^0*//')  # Remove leading zeros
           today_index=$(( (day_of_year % total_lines) + 1 ))
           topic=$(sed -n "${today_index}p" topics.txt)
-          
-          response=$(curl -s https://api.quotable.io/random)
+
+          # Fetch quote of the day
+          response=$(curl --retry 3 --connect-timeout 10 -s --insecure https://api.quotable.io/random)
           quote=$(echo "$response" | jq -r '.content')
           author=$(echo "$response" | jq -r '.author')
 
+          # Fallback quote if API fails
+          if [ -z "$quote" ] || [ "$quote" == "null" ]; then
+            quote="Keep going. You're doing great!"
+            author="Unknown"
+          fi
+
+          # Append to learning_log.md
           echo "## 📅 $(date -u +'%Y-%m-%d')" >> learning_log.md
           echo "**🧠 Learning Topic:** $topic" >> learning_log.md
           echo "**💬 Quote of the Day:** \"$quote\" — $author" >> learning_log.md
           echo "" >> learning_log.md
 
-      - name: Commit and push
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
