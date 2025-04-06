@@ -41,7 +41,7 @@ jobs:
         env:
           TOKEN: ${{ secrets.TOKEN }}
         run: |
-          git config user.name "Mahesh Patil"
+          git config user.name "Mahesh5132"
           git config user.email "patilmahesh5132@gmail.com"
 
           # ✅ THIS is the important line
