@@ -2,7 +2,9 @@ name: Daily Learning Log
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Every day at 8 AM UTC
+      - cron: '0 8 * * *'   # 8 AM UTC
+      - cron: '0 14 * * *'  # 2 PM UTC
+      - cron: '0 20 * * *'  # 8 PM UTC
   workflow_dispatch:  # Manual trigger
 
 jobs:
