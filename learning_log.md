@@ -6,3 +6,7 @@
 **🧠 Learning Topic:** Prompt Engineering
 **💬 Quote of the Day:** "Better than a thousand useless words is one useful word, upon hearing which one attains peace." — The Buddha
 
+## 📅 2025-04-08
+**🧠 Learning Topic:** LangChain Basics
+**💬 Quote of the Day:** "Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life." — Hermann Hesse
+
