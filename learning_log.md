@@ -10,3 +10,7 @@
 **🧠 Learning Topic:** LangChain Basics
 **💬 Quote of the Day:** "Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life." — Hermann Hesse
 
+## 📅 2025-04-09
+**🧠 Learning Topic:** Docker for ML
+**💬 Quote of the Day:** "Those who cling to perceptions and views wander the world offending people." — The Buddha
+
