@@ -14,3 +14,7 @@
 **🧠 Learning Topic:** Docker for ML
 **💬 Quote of the Day:** "Those who cling to perceptions and views wander the world offending people." — The Buddha
 
+## 📅 2025-04-10
+**🧠 Learning Topic:** Streamlit Dashboards
+**💬 Quote of the Day:** "Knowledge rests not upon truth alone, but upon error also." — Carl Jung
+
