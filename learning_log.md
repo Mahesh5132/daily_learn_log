@@ -18,3 +18,7 @@
 **🧠 Learning Topic:** Streamlit Dashboards
 **💬 Quote of the Day:** "Knowledge rests not upon truth alone, but upon error also." — Carl Jung
 
+## 📅 2025-04-11
+**🧠 Learning Topic:** MLflow Tracking
+**💬 Quote of the Day:** "Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one." — Oscar Wilde
+
