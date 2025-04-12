@@ -22,3 +22,7 @@
 **🧠 Learning Topic:** MLflow Tracking
 **💬 Quote of the Day:** "Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one." — Oscar Wilde
 
+## 📅 2025-04-12
+**🧠 Learning Topic:** Fine-tuning LLMs with LoRA
+**💬 Quote of the Day:** "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life." — Albert Camus
+
