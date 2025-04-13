@@ -26,3 +26,7 @@
 **🧠 Learning Topic:** Fine-tuning LLMs with LoRA
 **💬 Quote of the Day:** "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life." — Albert Camus
 
+## 📅 2025-04-13
+**🧠 Learning Topic:** LangChain Agents
+**💬 Quote of the Day:** "I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want." — Muhammad Ali
+
