@@ -30,3 +30,7 @@
 **🧠 Learning Topic:** LangChain Agents
 **💬 Quote of the Day:** "I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want." — Muhammad Ali
 
+## 📅 2025-04-14
+**🧠 Learning Topic:** Serverless with AWS Lambda
+**💬 Quote of the Day:** "One must be fond of people and trust them if one is not to make a mess of life." — E. M. Forster
+
