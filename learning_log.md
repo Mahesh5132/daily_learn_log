@@ -34,3 +34,7 @@
 **🧠 Learning Topic:** Serverless with AWS Lambda
 **💬 Quote of the Day:** "One must be fond of people and trust them if one is not to make a mess of life." — E. M. Forster
 
+## 📅 2025-04-15
+**🧠 Learning Topic:** Vector Search with FAISS
+**💬 Quote of the Day:** "The most technologically efficient machine that man has ever invented is the book." — Northrop Frye
+
