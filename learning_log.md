@@ -42,3 +42,7 @@
 **🧠 Learning Topic:** Data Drift Detection
 **💬 Quote of the Day:** "If you love life, don't waste time, for time is what life is made up of." — Bruce Lee
 
+## 📅 2025-04-17
+**🧠 Learning Topic:** Realtime ML with Kafka
+**💬 Quote of the Day:** "Compassion and happiness are not a sign of weakness but a sign of strength." — Dalai Lama
+
