@@ -46,3 +46,7 @@
 **🧠 Learning Topic:** Realtime ML with Kafka
 **💬 Quote of the Day:** "Compassion and happiness are not a sign of weakness but a sign of strength." — Dalai Lama
 
+## 📅 2025-04-18
+**🧠 Learning Topic:** CI/CD with GitHub Actions
+**💬 Quote of the Day:** "Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter." — Charles Lindbergh
+
