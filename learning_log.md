@@ -50,3 +50,7 @@
 **🧠 Learning Topic:** CI/CD with GitHub Actions
 **💬 Quote of the Day:** "Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter." — Charles Lindbergh
 
+## 📅 2025-04-19
+**🧠 Learning Topic:** Prompt Engineering
+**💬 Quote of the Day:** "Everything you are against weakens you. Everything you are for empowers you." — Wayne Dyer
+
