@@ -54,3 +54,7 @@
 **🧠 Learning Topic:** Prompt Engineering
 **💬 Quote of the Day:** "Everything you are against weakens you. Everything you are for empowers you." — Wayne Dyer
 
+## 📅 2025-04-20
+**🧠 Learning Topic:** LangChain Basics
+**💬 Quote of the Day:** "When your desires are strong enough you will appear to possess superhuman powers to achieve." — Napoleon Hill
+
