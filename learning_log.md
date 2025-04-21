@@ -58,3 +58,7 @@
 **🧠 Learning Topic:** LangChain Basics
 **💬 Quote of the Day:** "When your desires are strong enough you will appear to possess superhuman powers to achieve." — Napoleon Hill
 
+## 📅 2025-04-21
+**🧠 Learning Topic:** Docker for ML
+**💬 Quote of the Day:** "People don't notice whether it's winter or summer when they're happy." — Anton Chekhov
+
