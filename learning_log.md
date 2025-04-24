@@ -70,3 +70,7 @@
 **🧠 Learning Topic:** MLflow Tracking
 **💬 Quote of the Day:** "He who knows that enough is enough will always have enough." — Laozi
 
+## 📅 2025-04-24
+**🧠 Learning Topic:** Fine-tuning LLMs with LoRA
+**💬 Quote of the Day:** "Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens." — Carl Jung
+
