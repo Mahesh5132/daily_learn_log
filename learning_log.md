@@ -74,3 +74,7 @@
 **🧠 Learning Topic:** Fine-tuning LLMs with LoRA
 **💬 Quote of the Day:** "Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens." — Carl Jung
 
+## 📅 2025-04-25
+**🧠 Learning Topic:** LangChain Agents
+**💬 Quote of the Day:** "Computers are useless. They can only give you answers." — Pablo Picasso
+
