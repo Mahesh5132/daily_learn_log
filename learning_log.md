@@ -78,3 +78,7 @@
 **🧠 Learning Topic:** LangChain Agents
 **💬 Quote of the Day:** "Computers are useless. They can only give you answers." — Pablo Picasso
 
+## 📅 2025-04-26
+**🧠 Learning Topic:** Serverless with AWS Lambda
+**💬 Quote of the Day:** "Love is flower like; Friendship is like a sheltering tree." — Samuel Taylor Coleridge
+
