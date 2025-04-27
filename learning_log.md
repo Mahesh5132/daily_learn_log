@@ -82,3 +82,7 @@
 **🧠 Learning Topic:** Serverless with AWS Lambda
 **💬 Quote of the Day:** "Love is flower like; Friendship is like a sheltering tree." — Samuel Taylor Coleridge
 
+## 📅 2025-04-27
+**🧠 Learning Topic:** Vector Search with FAISS
+**💬 Quote of the Day:** "Learn from yesterday, live for today, hope for tomorrow." — Albert Einstein
+
