@@ -90,3 +90,7 @@
 **🧠 Learning Topic:** Data Drift Detection
 **💬 Quote of the Day:** "Courage is going from failure to failure without losing enthusiasm." — Winston Churchill
 
+## 📅 2025-04-29
+**🧠 Learning Topic:** Realtime ML with Kafka
+**💬 Quote of the Day:** "Most powerful is he who has himself in his own power." — Seneca the Younger
+
