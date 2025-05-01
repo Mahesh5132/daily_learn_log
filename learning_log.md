@@ -98,3 +98,7 @@
 **🧠 Learning Topic:** CI/CD with GitHub Actions
 **💬 Quote of the Day:** "It has been my experience that folks who have no vices have very few virtues." — Abraham Lincoln
 
+## 📅 2025-05-01
+**🧠 Learning Topic:** Prompt Engineering
+**💬 Quote of the Day:** "The wisdom of the wise, and the experience of ages, may be preserved by quotation." — Isaac D'Israeli
+
