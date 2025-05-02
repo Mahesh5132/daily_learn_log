@@ -102,3 +102,7 @@
 **🧠 Learning Topic:** Prompt Engineering
 **💬 Quote of the Day:** "The wisdom of the wise, and the experience of ages, may be preserved by quotation." — Isaac D'Israeli
 
+## 📅 2025-05-02
+**🧠 Learning Topic:** LangChain Basics
+**💬 Quote of the Day:** "The world is a book, and those who do not travel read only a page." — Augustine of Hippo
+
