@@ -106,3 +106,7 @@
 **🧠 Learning Topic:** LangChain Basics
 **💬 Quote of the Day:** "The world is a book, and those who do not travel read only a page." — Augustine of Hippo
 
+## 📅 2025-05-03
+**🧠 Learning Topic:** Docker for ML
+**💬 Quote of the Day:** "The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah." — Afrika Bambaataa
+
