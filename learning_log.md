@@ -110,3 +110,7 @@
 **🧠 Learning Topic:** Docker for ML
 **💬 Quote of the Day:** "The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah." — Afrika Bambaataa
 
+## 📅 2025-05-04
+**🧠 Learning Topic:** Streamlit Dashboards
+**💬 Quote of the Day:** "Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins." — Charles Eastman
+
