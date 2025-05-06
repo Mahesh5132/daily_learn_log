@@ -118,3 +118,7 @@
 **🧠 Learning Topic:** MLflow Tracking
 **💬 Quote of the Day:** "Life is about timing." — Carl Lewis
 
+## 📅 2025-05-06
+**🧠 Learning Topic:** Fine-tuning LLMs with LoRA
+**💬 Quote of the Day:** "A hero is no braver than an ordinary man, but he is braver five minutes longer." — Ralph Waldo Emerson
+
