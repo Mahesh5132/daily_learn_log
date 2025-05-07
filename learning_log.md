@@ -122,3 +122,7 @@
 **🧠 Learning Topic:** Fine-tuning LLMs with LoRA
 **💬 Quote of the Day:** "A hero is no braver than an ordinary man, but he is braver five minutes longer." — Ralph Waldo Emerson
 
+## 📅 2025-05-07
+**🧠 Learning Topic:** LangChain Agents
+**💬 Quote of the Day:** "Friendship, like the immortality of the soul, is too good to be believed." — Ralph Waldo Emerson
+
