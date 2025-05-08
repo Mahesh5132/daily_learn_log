@@ -126,3 +126,7 @@
 **🧠 Learning Topic:** LangChain Agents
 **💬 Quote of the Day:** "Friendship, like the immortality of the soul, is too good to be believed." — Ralph Waldo Emerson
 
+## 📅 2025-05-08
+**🧠 Learning Topic:** Serverless with AWS Lambda
+**💬 Quote of the Day:** "Follow your instincts. That is where true wisdom manifests itself." — Oprah Winfrey
+
