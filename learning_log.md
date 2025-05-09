@@ -130,3 +130,7 @@
 **🧠 Learning Topic:** Serverless with AWS Lambda
 **💬 Quote of the Day:** "Follow your instincts. That is where true wisdom manifests itself." — Oprah Winfrey
 
+## 📅 2025-05-09
+**🧠 Learning Topic:** Vector Search with FAISS
+**💬 Quote of the Day:** "Your sacred space is where you can find yourself again and again." — Joseph Campbell
+
