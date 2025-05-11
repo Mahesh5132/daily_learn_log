@@ -138,3 +138,7 @@
 **🧠 Learning Topic:** Data Drift Detection
 **💬 Quote of the Day:** "We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely." — Frank Abagnale
 
+## 📅 2025-05-11
+**🧠 Learning Topic:** Realtime ML with Kafka
+**💬 Quote of the Day:** "Let there be no purpose in friendship save the deepening of the spirit." — Kahlil Gibran
+
