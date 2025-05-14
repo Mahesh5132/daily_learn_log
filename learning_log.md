@@ -150,3 +150,7 @@
 **🧠 Learning Topic:** Prompt Engineering
 **💬 Quote of the Day:** "The best way to predict your future is to create it." — Peter Drucker
 
+## 📅 2025-05-14
+**🧠 Learning Topic:** LangChain Basics
+**💬 Quote of the Day:** "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life." — Eckhart Tolle
+
