@@ -154,3 +154,7 @@
 **🧠 Learning Topic:** LangChain Basics
 **💬 Quote of the Day:** "The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life." — Eckhart Tolle
 
+## 📅 2025-05-15
+**🧠 Learning Topic:** Docker for ML
+**💬 Quote of the Day:** "The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom." — William Hurt
+
