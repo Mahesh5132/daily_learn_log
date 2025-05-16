@@ -158,3 +158,7 @@
 **🧠 Learning Topic:** Docker for ML
 **💬 Quote of the Day:** "The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom." — William Hurt
 
+## 📅 2025-05-16
+**🧠 Learning Topic:** Streamlit Dashboards
+**💬 Quote of the Day:** "Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it." — Lou Holtz
+
