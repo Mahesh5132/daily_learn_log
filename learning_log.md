@@ -162,3 +162,7 @@
 **🧠 Learning Topic:** Streamlit Dashboards
 **💬 Quote of the Day:** "Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it." — Lou Holtz
 
+## 📅 2025-05-17
+**🧠 Learning Topic:** MLflow Tracking
+**💬 Quote of the Day:** "Give, even if you only have a little." — The Buddha
+
