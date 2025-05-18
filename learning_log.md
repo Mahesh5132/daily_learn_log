@@ -166,3 +166,7 @@
 **🧠 Learning Topic:** MLflow Tracking
 **💬 Quote of the Day:** "Give, even if you only have a little." — The Buddha
 
+## 📅 2025-05-18
+**🧠 Learning Topic:** Fine-tuning LLMs with LoRA
+**💬 Quote of the Day:** "Your worst enemy cannot harm you as much as your own unguarded thoughts." — The Buddha
+
