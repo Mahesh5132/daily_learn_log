@@ -170,3 +170,7 @@
 **🧠 Learning Topic:** Fine-tuning LLMs with LoRA
 **💬 Quote of the Day:** "Your worst enemy cannot harm you as much as your own unguarded thoughts." — The Buddha
 
+## 📅 2025-05-19
+**🧠 Learning Topic:** LangChain Agents
+**💬 Quote of the Day:** "All achievements, all earned riches, have their beginning in an idea." — Napoleon Hill
+
