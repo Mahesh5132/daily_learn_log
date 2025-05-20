@@ -174,3 +174,7 @@
 **🧠 Learning Topic:** LangChain Agents
 **💬 Quote of the Day:** "All achievements, all earned riches, have their beginning in an idea." — Napoleon Hill
 
+## 📅 2025-05-20
+**🧠 Learning Topic:** Serverless with AWS Lambda
+**💬 Quote of the Day:** "Bad times have a scientific value. These are occasions a good learner would not miss." — Ralph Waldo Emerson
+
