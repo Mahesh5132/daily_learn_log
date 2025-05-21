@@ -178,3 +178,7 @@
 **🧠 Learning Topic:** Serverless with AWS Lambda
 **💬 Quote of the Day:** "Bad times have a scientific value. These are occasions a good learner would not miss." — Ralph Waldo Emerson
 
+## 📅 2025-05-21
+**🧠 Learning Topic:** Vector Search with FAISS
+**💬 Quote of the Day:** "Do not turn back when you are just at the goal." — Publilius Syrus
+
