@@ -186,3 +186,7 @@
 **🧠 Learning Topic:** Data Drift Detection
 **💬 Quote of the Day:** "Our doubts are traitors and make us lose the good we often might win, by fearing to attempt." — Jane Addams
 
+## 📅 2025-05-23
+**🧠 Learning Topic:** Realtime ML with Kafka
+**💬 Quote of the Day:** "I had three chairs in my house; one for solitude, two for friendship, three for society." — Henry David Thoreau
+
