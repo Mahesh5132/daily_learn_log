@@ -190,3 +190,7 @@
 **🧠 Learning Topic:** Realtime ML with Kafka
 **💬 Quote of the Day:** "I had three chairs in my house; one for solitude, two for friendship, three for society." — Henry David Thoreau
 
+## 📅 2025-05-24
+**🧠 Learning Topic:** CI/CD with GitHub Actions
+**💬 Quote of the Day:** "Be as you wish to seem." — Socrates
+
