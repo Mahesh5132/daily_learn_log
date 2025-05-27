@@ -198,3 +198,7 @@
 **🧠 Learning Topic:** Prompt Engineering
 **💬 Quote of the Day:** "People don't notice whether it's winter or summer when they're happy." — Anton Chekhov
 
+## 📅 2025-05-27
+**🧠 Learning Topic:** Docker for ML
+**💬 Quote of the Day:** "Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak." — Thomas Carlyle
+
