@@ -202,3 +202,7 @@
 **🧠 Learning Topic:** Docker for ML
 **💬 Quote of the Day:** "Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak." — Thomas Carlyle
 
+## 📅 2025-05-28
+**🧠 Learning Topic:** Streamlit Dashboards
+**💬 Quote of the Day:** "Do what you can. Want what you have. Be who you are." — Forrest Church
+
