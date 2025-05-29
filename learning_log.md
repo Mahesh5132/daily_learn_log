@@ -206,3 +206,7 @@
 **🧠 Learning Topic:** Streamlit Dashboards
 **💬 Quote of the Day:** "Do what you can. Want what you have. Be who you are." — Forrest Church
 
+## 📅 2025-05-29
+**🧠 Learning Topic:** MLflow Tracking
+**💬 Quote of the Day:** "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher." — Pema Chödrön
+
