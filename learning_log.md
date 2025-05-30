@@ -210,3 +210,7 @@
 **🧠 Learning Topic:** MLflow Tracking
 **💬 Quote of the Day:** "If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher." — Pema Chödrön
 
+## 📅 2025-05-30
+**🧠 Learning Topic:** Fine-tuning LLMs with LoRA
+**💬 Quote of the Day:** "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace." — Dalai Lama
+
