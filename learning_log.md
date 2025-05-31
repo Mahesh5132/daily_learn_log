@@ -214,3 +214,7 @@
 **🧠 Learning Topic:** Fine-tuning LLMs with LoRA
 **💬 Quote of the Day:** "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace." — Dalai Lama
 
+## 📅 2025-05-31
+**🧠 Learning Topic:** LangChain Agents
+**💬 Quote of the Day:** "The language of friendship is not words but meanings." — Henry David Thoreau
+
