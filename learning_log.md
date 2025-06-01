@@ -218,3 +218,7 @@
 **🧠 Learning Topic:** LangChain Agents
 **💬 Quote of the Day:** "The language of friendship is not words but meanings." — Henry David Thoreau
 
+## 📅 2025-06-01
+**🧠 Learning Topic:** Serverless with AWS Lambda
+**💬 Quote of the Day:** "If you find yourself in a hole, the first thing to do is stop digging." — Will Rogers
+
