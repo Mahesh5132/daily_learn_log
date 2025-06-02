@@ -222,3 +222,7 @@
 **🧠 Learning Topic:** Serverless with AWS Lambda
 **💬 Quote of the Day:** "If you find yourself in a hole, the first thing to do is stop digging." — Will Rogers
 
+## 📅 2025-06-02
+**🧠 Learning Topic:** Vector Search with FAISS
+**💬 Quote of the Day:** "All that I am, or hope to be, I owe to my angel mother." — Abraham Lincoln
+
