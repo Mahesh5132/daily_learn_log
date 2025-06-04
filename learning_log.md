@@ -230,3 +230,7 @@
 **🧠 Learning Topic:** Data Drift Detection
 **💬 Quote of the Day:** "Can you imagine what I would do if I could do all I can?" — Sun Tzu
 
+## 📅 2025-06-04
+**🧠 Learning Topic:** Realtime ML with Kafka
+**💬 Quote of the Day:** "We must never forget that it is through our actions, words, and thoughts that we have a choice." — Sogyal Rinpoche
+
