@@ -242,3 +242,7 @@
 **🧠 Learning Topic:** Prompt Engineering
 **💬 Quote of the Day:** "I have an everyday religion that works for me. Love yourself first, and everything else falls into line." — Lucille Ball
 
+## 📅 2025-06-07
+**🧠 Learning Topic:** LangChain Basics
+**💬 Quote of the Day:** "Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius." — Wolfgang Amadeus Mozart
+
