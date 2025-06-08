@@ -246,3 +246,7 @@
 **🧠 Learning Topic:** LangChain Basics
 **💬 Quote of the Day:** "Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius." — Wolfgang Amadeus Mozart
 
+## 📅 2025-06-08
+**🧠 Learning Topic:** Docker for ML
+**💬 Quote of the Day:** "The price of greatness is responsibility." — Winston Churchill
+
