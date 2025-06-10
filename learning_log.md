@@ -254,3 +254,7 @@
 **🧠 Learning Topic:** Streamlit Dashboards
 **💬 Quote of the Day:** "'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering." — The Buddha
 
+## 📅 2025-06-10
+**🧠 Learning Topic:** MLflow Tracking
+**💬 Quote of the Day:** "Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions." — John F. Kennedy
+
