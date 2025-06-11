@@ -258,3 +258,7 @@
 **🧠 Learning Topic:** MLflow Tracking
 **💬 Quote of the Day:** "Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions." — John F. Kennedy
 
+## 📅 2025-06-11
+**🧠 Learning Topic:** Fine-tuning LLMs with LoRA
+**💬 Quote of the Day:** "When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it." — A. Powell Davies
+
