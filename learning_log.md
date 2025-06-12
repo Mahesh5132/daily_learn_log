@@ -262,3 +262,7 @@
 **🧠 Learning Topic:** Fine-tuning LLMs with LoRA
 **💬 Quote of the Day:** "When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it." — A. Powell Davies
 
+## 📅 2025-06-12
+**🧠 Learning Topic:** LangChain Agents
+**💬 Quote of the Day:** "It is easier to live through someone else than to become complete yourself." — Betty Friedan
+
