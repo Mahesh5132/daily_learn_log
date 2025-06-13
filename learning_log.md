@@ -266,3 +266,7 @@
 **🧠 Learning Topic:** LangChain Agents
 **💬 Quote of the Day:** "It is easier to live through someone else than to become complete yourself." — Betty Friedan
 
+## 📅 2025-06-13
+**🧠 Learning Topic:** Serverless with AWS Lambda
+**💬 Quote of the Day:** "What the caterpillar calls the end of the world, the master calls a butterfly." — Richard Bach
+
