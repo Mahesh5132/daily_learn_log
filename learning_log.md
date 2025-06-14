@@ -270,3 +270,7 @@
 **🧠 Learning Topic:** Serverless with AWS Lambda
 **💬 Quote of the Day:** "What the caterpillar calls the end of the world, the master calls a butterfly." — Richard Bach
 
+## 📅 2025-06-14
+**🧠 Learning Topic:** Vector Search with FAISS
+**💬 Quote of the Day:** "Wise men make more opportunities than they find." — Francis Bacon
+
