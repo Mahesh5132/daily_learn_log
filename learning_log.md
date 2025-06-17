@@ -282,3 +282,7 @@
 **🧠 Learning Topic:** Realtime ML with Kafka
 **💬 Quote of the Day:** "Do more than dream: work." — William Arthur Ward
 
+## 📅 2025-06-17
+**🧠 Learning Topic:** CI/CD with GitHub Actions
+**💬 Quote of the Day:** "The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character." — Margaret Chase Smith
+
