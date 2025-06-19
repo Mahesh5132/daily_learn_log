@@ -290,3 +290,7 @@
 **🧠 Learning Topic:** Prompt Engineering
 **💬 Quote of the Day:** "Mountains cannot be surmounted except by winding paths." — Johann Wolfgang von Goethe
 
+## 📅 2025-06-19
+**🧠 Learning Topic:** LangChain Basics
+**💬 Quote of the Day:** "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind." — Bruce Lee
+
