@@ -294,3 +294,7 @@
 **🧠 Learning Topic:** LangChain Basics
 **💬 Quote of the Day:** "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind." — Bruce Lee
 
+## 📅 2025-06-20
+**🧠 Learning Topic:** Docker for ML
+**💬 Quote of the Day:** "You can observe a lot just by watching." — Yogi Berra
+
