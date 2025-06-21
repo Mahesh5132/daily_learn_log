@@ -298,3 +298,7 @@
 **🧠 Learning Topic:** Docker for ML
 **💬 Quote of the Day:** "You can observe a lot just by watching." — Yogi Berra
 
+## 📅 2025-06-21
+**🧠 Learning Topic:** Streamlit Dashboards
+**💬 Quote of the Day:** "We are masters of the unsaid words, but slaves of those we let slip out." — Winston Churchill
+
