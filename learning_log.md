@@ -302,3 +302,7 @@
 **🧠 Learning Topic:** Streamlit Dashboards
 **💬 Quote of the Day:** "We are masters of the unsaid words, but slaves of those we let slip out." — Winston Churchill
 
+## 📅 2025-06-22
+**🧠 Learning Topic:** MLflow Tracking
+**💬 Quote of the Day:** "If you have knowledge, let others light their candles in it." — Margaret Fuller
+
