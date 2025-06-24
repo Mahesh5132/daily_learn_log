@@ -310,3 +310,7 @@
 **🧠 Learning Topic:** Fine-tuning LLMs with LoRA
 **💬 Quote of the Day:** "And I love that even in the toughest moments, when we're all sweating it - when we're worried that the bill won't pass, and it seems like all is lost - Barack never lets himself get distracted by the chatter and the noise. Just like his grandmother, he just keeps getting up and moving forward... with patience and wisdom, and courage and grace." — Michelle Obama
 
+## 📅 2025-06-24
+**🧠 Learning Topic:** LangChain Agents
+**💬 Quote of the Day:** "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace." — Dalai Lama
+
