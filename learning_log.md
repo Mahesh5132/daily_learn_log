@@ -314,3 +314,7 @@
 **🧠 Learning Topic:** LangChain Agents
 **💬 Quote of the Day:** "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace." — Dalai Lama
 
+## 📅 2025-06-25
+**🧠 Learning Topic:** Serverless with AWS Lambda
+**💬 Quote of the Day:** "In the business world, the rearview mirror is always clearer than the windshield." — Warren Buffett
+
