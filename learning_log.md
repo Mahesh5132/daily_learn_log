@@ -318,3 +318,7 @@
 **🧠 Learning Topic:** Serverless with AWS Lambda
 **💬 Quote of the Day:** "In the business world, the rearview mirror is always clearer than the windshield." — Warren Buffett
 
+## 📅 2025-06-26
+**🧠 Learning Topic:** Vector Search with FAISS
+**💬 Quote of the Day:** "Be slow to fall into friendship; but when thou art in, continue firm and constant." — Isocrates
+
