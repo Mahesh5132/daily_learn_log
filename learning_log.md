@@ -326,3 +326,7 @@
 **🧠 Learning Topic:** Data Drift Detection
 **💬 Quote of the Day:** "To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect." — Joan Didion
 
+## 📅 2025-06-28
+**🧠 Learning Topic:** Realtime ML with Kafka
+**💬 Quote of the Day:** "Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration." — Niccolò Machiavelli
+
