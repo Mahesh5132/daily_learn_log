@@ -338,3 +338,7 @@
 **🧠 Learning Topic:** Prompt Engineering
 **💬 Quote of the Day:** "There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen." — Wayne Dyer
 
+## 📅 2025-07-01
+**🧠 Learning Topic:** LangChain Basics
+**💬 Quote of the Day:** "I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones." — Albert Einstein
+
