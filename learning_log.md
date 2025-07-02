@@ -342,3 +342,7 @@
 **🧠 Learning Topic:** LangChain Basics
 **💬 Quote of the Day:** "I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones." — Albert Einstein
 
+## 📅 2025-07-02
+**🧠 Learning Topic:** Docker for ML
+**💬 Quote of the Day:** "However rare true love may be, it is less so than true friendship." — François de La Rochefoucauld
+
