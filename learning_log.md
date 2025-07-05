@@ -354,3 +354,7 @@
 **🧠 Learning Topic:** MLflow Tracking
 **💬 Quote of the Day:** "To be what we are, and to become what we are capable of becoming, is the only end of life." — Robert Louis Stevenson
 
+## 📅 2025-07-05
+**🧠 Learning Topic:** Fine-tuning LLMs with LoRA
+**💬 Quote of the Day:** "Belief consists in accepting the affirmations of the soul; Unbelief, in denying them." — Ralph Waldo Emerson
+
